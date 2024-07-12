@@ -1,0 +1,14 @@
+D:\Projelerim\FileCryptor\FileCryptor\bin\Debug\net8.0\FileCryptor.exe
+D:\Projelerim\FileCryptor\FileCryptor\bin\Debug\net8.0\FileCryptor.deps.json
+D:\Projelerim\FileCryptor\FileCryptor\bin\Debug\net8.0\FileCryptor.runtimeconfig.json
+D:\Projelerim\FileCryptor\FileCryptor\bin\Debug\net8.0\FileCryptor.dll
+D:\Projelerim\FileCryptor\FileCryptor\bin\Debug\net8.0\FileCryptor.pdb
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.AssemblyInfoInputs.cache
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.AssemblyInfo.cs
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.csproj.CoreCompileInputs.cache
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.dll
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\refint\FileCryptor.dll
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.pdb
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\FileCryptor.genruntimeconfig.cache
+D:\Projelerim\FileCryptor\FileCryptor\obj\Debug\net8.0\ref\FileCryptor.dll
